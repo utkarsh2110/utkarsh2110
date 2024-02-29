@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **msutkarsh@outlook.com**
 
-- 📄 Know about my experiences [https://www.overleaf.com/read/vtmskhnfbktg#622ebb](https://www.overleaf.com/read/vtmskhnfbktg#622ebb)
+- 📄 Know about my experiences [https://www.overleaf.com/read/vtmskhnfbktg#622ebb](https://drive.google.com/file/d/1ojHiTH30OVSloFFqpHm3M2PLPAsu0XtC/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
