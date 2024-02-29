@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sngutkarsh" target="blank"><img src="https://img.shields.io/twitter/follow/sngutkarsh?logo=twitter&style=for-the-badge" alt="sngutkarsh" /></a> </p>
 
-- 🔭 I’m currently working on [College Placement Portal](https://github.com/utkarsh2110/College_Placement_Portal/wiki)
+- 🔭 I’m currently working on [College Placement Portal](https://github.com/utkarsh2110/College_Placement_Portal)
 
 - 📫 How to reach me **msutkarsh@outlook.com**
 
