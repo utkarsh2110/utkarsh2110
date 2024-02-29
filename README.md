@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh2110&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh2110" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarsh2110" alt="utkarsh2110" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sngutkarsh" target="blank"><img src="https://img.shields.io/twitter/follow/sngutkarsh?logo=twitter&style=for-the-badge" alt="sngutkarsh" /></a> </p>
-
 - 🔭 I’m currently working on [College Placement Portal](https://github.com/utkarsh2110/College_Placement_Portal)
 
 - 📫 How to reach me **msutkarsh@outlook.com**
