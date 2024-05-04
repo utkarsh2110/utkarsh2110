@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [College Placement Portal](https://github.com/utkarsh2110/College_Placement_Portal)
 
 - 📫 How to reach me **msutkarsh@outlook.com**
 
