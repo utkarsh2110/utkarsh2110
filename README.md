@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **karing.iitk@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/11kaSM8zISxX7yOJ3GC73jNar3na3RjsM/view?usp=sharing](https://www.overleaf.com/read/vtmskhnfbktg#622ebb))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11kaSM8zISxX7yOJ3GC73jNar3na3RjsM/view?usp=sharing](https://www.overleaf.com/read/vtmskhnfbktg#622ebb))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
