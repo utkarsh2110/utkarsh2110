@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
-<h3 align="center">M.Tech @ IIT Kanpur · AI for Sustainability ·</h3>
+<h3 align="center">M.Tech @ IIT Kanpur · AI | Sustainability ·</h3>
 
 ---
 
