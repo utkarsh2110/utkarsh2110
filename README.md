@@ -21,7 +21,6 @@
 | **Tool-Using Math & Search Agent** | Deployed agent that routes queries to calculation and search tools. | FastAPI, Gemini API, Netlify |
 | **Turbulence Simulation (Sabra Shell Model)** | GPU-accelerated solver using an integrating-factor RK4 scheme, with publication-quality analysis plots. | CuPy, CUDA, NumPy |
 | **Active Brownian Particle Simulations** | GPU and pure-NumPy ABP simulations with FFT-based MSD analysis. | CuPy, NumPy, Matplotlib |
-| **RAG over Institutional Documents** | Production-grade chunking pipeline with hierarchical splitting and metadata preservation. | Python, vector search |
 | **Kedarnath Flood Reconstruction** | ML pipeline reconstructing flood extent from satellite imagery. | Random Forest, GIS |
 | **AQI Prediction** | Time-series imputation and forecasting on sparse sensor data. | BRITS, GAIN, XGBoost |
 | **Placement Portal** | Full-stack portal serving 400+ users. | MERN |
