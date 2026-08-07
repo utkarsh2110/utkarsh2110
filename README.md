@@ -8,7 +8,6 @@
 - 🎓 **M.Tech, Kotak School of Sustainability, IIT Kanpur** (2025–2027) · GATE 2025 AIR **210** (Data Science & AI)
 - 👨‍🏫 Teaching Assistant for **IDC612 — Maths and Computation using Python**
 - 🧭 DPGC Student Representative, representing PG students at KSS
-- 💬 Ask me about **PyTorch, CUDA/CuPy, numerical simulation, LLM agents, or turbulence**
 - 📫 Reach me at **karing.iitk@gmail.com**
 - 📄 [**Resume**](https://www.overleaf.com/read/vtmskhnfbktg#622ebb)
 
