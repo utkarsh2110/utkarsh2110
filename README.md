@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 Currently working on **AI agents, GPU-accelerated physics simulations, and RAG pipelines**
+- 🔭 Currently working on **AI agents, GPU-accelerated physics simulations, Cargo attached to an Active Brownian Particle and RAG pipelines**
 - 🌱 Deepening my work in **PyTorch internals, transformers, and ML systems design**
 - 🎓 **M.Tech, Kotak School of Sustainability, IIT Kanpur** (2025–2027) · GATE 2025 AIR **210** (Data Science & AI)
 - 👨‍🏫 Teaching Assistant for **IDC612 — Maths and Computation using Python**
