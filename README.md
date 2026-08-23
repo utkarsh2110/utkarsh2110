@@ -18,7 +18,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| **Decoder-Only Transformer from Scratch** | GPT-style character-level language model built from first principles — attention, causal masking, pre-norm residual blocks — with no high-level transformer libraries. 0.82M params, val loss 4.33 → 1.67. | PyTorch |
+| **Decoder-Only Transformer** | GPT-style character-level language model built from first principles — attention, causal masking, pre-norm residual blocks — with no high-level transformer libraries. 0.82M params, val loss 4.33 → 1.67. | PyTorch |
 | **MATLAB → Python Agent** | Self-correcting agent that transpiles MATLAB to Python and iterates on its own test failures. Cut benchmark steps from 4 → 2 after a regex fix. | Python, LLM agent loop |
 | **Tool-Using Math & Search Agent** | Deployed agent that routes queries to calculation and search tools. | FastAPI, Gemini API, Netlify |
 | **Turbulence Simulation (Sabra Shell Model)** | GPU-accelerated solver using an integrating-factor RK4 scheme, with publication-quality analysis plots. | CuPy, CUDA, NumPy |
